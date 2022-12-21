@@ -1,4 +1,4 @@
-![Cover](img/BANIERE GIT.png)
+![Cover](https://github.com/lliolla/lliolla/blob/8141e339436b8e0851e3555f3edb9d24d04eedce/img/BANIERE%20GIT.png)
 ### Bonjour à tous 👋
 Bienvenue sur ma page 
 
